@@ -24,7 +24,6 @@ The target IP address was assigned to an environment variable using the followin
 ```bash
 export IP=10.48.167.200
 ```
-![Prompt Injection](02-prompt-injection.png)
 
 
 This allows the target IP to be reused in subsequent commands.
@@ -38,6 +37,7 @@ curl -s http://$IP/vera/activity | jq '.'
 ```
 
 The output displayed JSON data containing guestbook activity, guest information, room numbers, replies and available tools.
+![Prompt Injection](02-prompt-injection.png)
 
 ### Step 3: Submit a Guestbook Entry
 
