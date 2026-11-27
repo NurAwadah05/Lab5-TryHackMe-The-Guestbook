@@ -7,6 +7,7 @@
 - Category: AI
 - Target IP: 10.48.167.200
 - Attacker Machine: TryHackMe AttackBox
+![VERA Activity](01-vera-activity.png)
 
 ## 2. Methodology Used
 - Reconnaissance
