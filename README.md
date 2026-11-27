@@ -24,6 +24,8 @@ The target IP address was assigned to an environment variable using the followin
 ```bash
 export IP=10.48.167.200
 ```
+![Prompt Injection](02-prompt-injection.png)
+
 
 This allows the target IP to be reused in subsequent commands.
 
